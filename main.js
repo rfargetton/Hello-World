@@ -1,5 +1,5 @@
-const str = 'Hello World!';
-document.querySelector('h1').innerHTML = str +" "+ str.length ;
+const str = 'Hello FreeCodeCamp !';
+document.querySelector('h1').innerHTML = str ;
 
 // Truncate a String
 
